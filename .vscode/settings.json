@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:EyCapApp}/db.sqlite",
+            "name": "pavanibtp"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
